@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: mysql-configmap
-data:
-  mysql_username: "RmFpc2FsIEtoYW4="
-  mysql_password: "ZmFpc2Fsa2hhbjM1QA=="
